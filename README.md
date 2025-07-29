@@ -21,13 +21,13 @@ Interactive Excel dashboard with filters and visual analytics
 ## 📷Screenshots
 
 ### Dashboard Tab  
-![Dashboard](screenshot_dashboard.png)
+![Dashboard](Screenshot_Dashboard.png)
 
 ### Salesman Tab  
-![Salesman](screenshot_salesman.png)
+![Salesman](Screenshot_Salesman.png)
 
 ###  Product Tab  
-![Products](screenshot_products.png)
+![Products](Screenshot_Products.png)
 
 #  Highlights
 
