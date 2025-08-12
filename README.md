@@ -94,7 +94,7 @@ This project helped me strengthen my skills in:
 https://github.com/pravin813/excel-sales-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
 
 ### Products Tab
-![Products](screenshots/products.png)
+https://github.com/pravin813/excel-sales-dashboard/blob/main/Snapshot%20of%20the%20products.png
 
 ### Salesman Tab
 ![Salesman](screenshots/salesman.png)
