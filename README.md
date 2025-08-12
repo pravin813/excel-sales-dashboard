@@ -48,7 +48,7 @@ Focused on individual performance.
 
 - Shows **sales volume per salesperson**
 -  Ranks **Top 3 Performers**
-- ⚠Flags the **Bottom 3 Performers**
+- Flags the **Bottom 3 Performers**
 
 This is useful for performance reviews, incentives, or training needs.
 
@@ -65,7 +65,7 @@ This is useful for performance reviews, incentives, or training needs.
 
 ---
 
-## 🎯 Business Impact
+## Business Impact
 
 I designed this project to simulate a **real-world business scenario**. Imagine a sales manager or regional director using this dashboard to:
 
@@ -91,7 +91,7 @@ This project helped me strengthen my skills in:
 ## Dashboard Previews
 
 ### Dashboard Tab
-![Dashboard](screenshots/dashboard.png)
+https://github.com/pravin813/excel-sales-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
 
 ### Products Tab
 ![Products](screenshots/products.png)
