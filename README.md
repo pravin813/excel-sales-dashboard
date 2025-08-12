@@ -97,7 +97,7 @@ https://github.com/pravin813/excel-sales-dashboard/blob/main/Snapshot%20of%20the
 https://github.com/pravin813/excel-sales-dashboard/blob/main/Snapshot%20of%20the%20products.png
 
 ### Salesman Tab
-![Salesman](screenshots/salesman.png)
+https://github.com/pravin813/excel-sales-dashboard/blob/main/Snapshot%20of%20the%20salesman.png
 
 ---
 
